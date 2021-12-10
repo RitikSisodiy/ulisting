@@ -1,0 +1,1 @@
+{"COUNTRY": "IN", "POSTAL_CODE": "416709", "CITY": "Katali Sagave", "STATE": "Maharashtra", "SHORT_STATE": "16", "COUNTY": "Ratnagiri", "SHORT_COUNTY": "528", "COMMUNITY": "Rajapur", "SHORT_COMMUNITY": "", "LATITUDE": "18.434", "LONGITUDE": "75.1714", "ACCURACY": "1"}
